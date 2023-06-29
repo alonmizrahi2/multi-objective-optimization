@@ -7,4 +7,4 @@ In this project, the optimization problem is finding an optimal architecture for
 Pareto front for 3 objectives (number of network parameters, accuracy, training epochs)
 
 
-<img src="pic/3%20Objectives.gif" alt="Alt Text" width="350" height="350">
+<img src="pic/3%20Objectives.gif" alt="Alt Text" width="450" height="350">
